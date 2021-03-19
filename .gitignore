@@ -1,5 +1,6 @@
 a.out
 benchmark
 tmp
+makefile
 .DS_Store
 .vscode/
